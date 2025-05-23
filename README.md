@@ -1,6 +1,6 @@
 The coolest CIFO Group.
 
-Group AM work for Computational Intelligence for Optimization 2025.
+**Group AM** for Computational Intelligence for Optimization 2025.
 
 
 To do list
