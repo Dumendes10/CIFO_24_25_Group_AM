@@ -1,4 +1,4 @@
-# Fantasy Sports League Optimization with Genetic Algorithms
+# Sports League Optimization with Genetic Algorithms Group AM
 
 The coolest CIFO Group.
 
