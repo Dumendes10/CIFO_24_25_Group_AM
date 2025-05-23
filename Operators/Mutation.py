@@ -2,11 +2,6 @@ from abc import ABC, abstractmethod
 from random import randint, shuffle, choice
 from copy import deepcopy
 
-class MutationOperator(ABC):
-    @abstractmethod
-    def mutate(self, solution):
-        pass
-    
 
 def player_swap_mutation(solution, verbose=False):
     """
